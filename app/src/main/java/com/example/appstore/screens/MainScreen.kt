@@ -110,7 +110,7 @@ fun BodyContent(modifier: Modifier,navController: NavController){
 fun MyIcon(){
     Image(
         painter = painterResource(R.drawable.logo_gys),
-        contentDescription = "Logo de la empresa",
+        contentDescription = "G&S MODA",
         modifier = Modifier
             .size(150.dp)
             .padding(15.dp)
